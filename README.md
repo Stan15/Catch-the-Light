@@ -1,10 +1,12 @@
 # Mini arcade device
 <img src="https://user-images.githubusercontent.com/47716543/104350286-fc234500-54d1-11eb-9d79-cf0031eb446f.jpg" width="500">
 
-*Description:*
+Description:
+-----------
 This project was made on the ATmega 328PB Xplained mini board, using C and AVR Assembly as a part of a Computer Organization course at York University (EECS 2021) under the direction of Dr. James Smith. A detailed demo and explanation can be found here (https://youtu.be/LunL-I5zm3w)
 
-*Features:*
+Features:
+--------
 * This is a two player game.
 * The player can modify the speed of the game before each game.
 * Each led is blinked sequentially.
@@ -12,7 +14,8 @@ This project was made on the ATmega 328PB Xplained mini board, using C and AVR A
 * A player's score is displayed with the LEDs each time they score.
 * When a player scores 10 times, the game is reset.
 
-*Circuit Schematic:*
+Circuit Schematic:
+-----------------
 <img src="https://user-images.githubusercontent.com/47716543/104350523-3bea2c80-54d2-11eb-9adc-a255f88845c1.png" width="500">
 
  
