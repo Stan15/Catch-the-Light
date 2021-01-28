@@ -8,6 +8,6 @@
 * A player's score is displayed with the LEDs each time they score. 
 * When a player scores 10 times, the game is reset.
  
- ![maxresdefault](https://user-images.githubusercontent.com/47716543/104350286-fc234500-54d1-11eb-9d79-cf0031eb446f.jpg) | ![Screenshot 2021-01-12 123201](https://user-images.githubusercontent.com/47716543/104350523-3bea2c80-54d2-11eb-9adc-a255f88845c1.png)
+ |![maxresdefault](https://user-images.githubusercontent.com/47716543/104350286-fc234500-54d1-11eb-9d79-cf0031eb446f.jpg) | ![Screenshot 2021-01-12 123201](https://user-images.githubusercontent.com/47716543/104350523-3bea2c80-54d2-11eb-9adc-a255f88845c1.png)|
 
  
