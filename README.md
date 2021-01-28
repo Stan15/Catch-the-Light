@@ -1,4 +1,4 @@
-# Mini arcade device
+# "Catch the Light" Mini arcade device
 <img src="https://user-images.githubusercontent.com/47716543/104350286-fc234500-54d1-11eb-9d79-cf0031eb446f.jpg" width="500">
 
 Description:
