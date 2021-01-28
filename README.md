@@ -3,7 +3,7 @@
 
 Description:
 -----------
-This project was made on the ATmega 328PB Xplained mini board, using C and AVR Assembly as a part of a Computer Organization course at York University (EECS 2021) under the direction of Dr. James Smith. A detailed demo and explanation can be found here (https://youtu.be/LunL-I5zm3w)
+This project was made on the ATmega 328PB Xplained mini board, using C and AVR Assembly as a part of a Computer Organization course at York University (EECS 2021) under the direction of Dr. James Smith. A detailed demo and explanation can be found in this 5 minute video: (https://youtu.be/LunL-I5zm3w)
 
 Features:
 --------
