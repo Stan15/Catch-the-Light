@@ -9,10 +9,10 @@ Features:
 --------
 * This is a two player game.
 * The player can modify the speed of the game before each game.
-* Each led is blinked sequentially.
-* Each player tries to click on their button when the yellow LED on their end is on.
-* A player's score is displayed with the LEDs each time they score.
-* When a player scores 10 times, the game is reset.
+* Each LED blinks sequentially.
+* A player scores by clicking on their button at the exact moment when the yellow LED on their end is on.
+* LEDs turn on to indicate a player's overall score each time they score a point.
+* When a player scores 10 points, the game is reset.
 
 Circuit Schematic:
 -----------------
