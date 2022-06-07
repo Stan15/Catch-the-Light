@@ -1,9 +1,9 @@
 # "Catch the Light" Mini arcade device
-<img src="https://user-images.githubusercontent.com/47716543/104350286-fc234500-54d1-11eb-9d79-cf0031eb446f.jpg" width="500">
-
 Description:
 -----------
-This project was made on the ATmega 328PB Xplained mini board, using C and AVR Assembly as a part of a Computer Organization course at York University (EECS 2021) under the direction of Dr. James Smith. A detailed demo and explanation can be found in this 5 minute video: (https://youtu.be/LunL-I5zm3w)
+This project was made on the ATmega 328PB Xplained mini board, using C and AVR Assembly as a part of a Computer Organization course at York University (EECS 2021) under the direction of Dr. James Smith. A detailed demo and explanation can be found in the following 5 minute video:
+
+[![Demo Video Thumbnail](https://user-images.githubusercontent.com/47716543/172285947-5a78c2d0-3e39-4086-88c0-7d229a45545d.png)](https://youtu.be/LunL-I5zm3w)
 
 Features:
 --------
@@ -19,3 +19,4 @@ Circuit Schematic:
 <img src="https://user-images.githubusercontent.com/47716543/104350523-3bea2c80-54d2-11eb-9adc-a255f88845c1.png" width="500">
 
  
+
